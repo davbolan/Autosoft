@@ -1,0 +1,15 @@
+EmpiezanTrabajadores
+ProfesorTeorico 123456789A Francisco García 2144 64458676 10:00-17:00 11/11/1950 915584721 Profesor El_carro_n14_Bj_Dr true ProfesorTeorico 5
+ProfesorPractico 65432122Q Javier Mendez 1393 64458676 10:00-17:00 11/11/2013 919388372 Profesor Avestruz_n15_Bj_Dr true ProfesorPractico SE2552U
+ProfesorPractico 726632112N Fernando Alonso_Sanchez 56382332 47675 10:00-17:00 11/11/1950 919948572 Profesor El_bólido_n28_7to_drcha true ProfesorPractico 3066HJW
+Otros 72883945B Jose_Manuel De_Monte_Pinar 3000 38471845 11:00-13:00 09/05/1984 648932632 Otros C/_Goya_n19_29932_suite Jefe_de_autoescuela
+Otros 73662553K Jhonny Melavo 950 37945547 16:00-20:00 01/01/1964 640024913 Otros C/_Lavapies_20_1ro_izq Auxiliar_de_limpieza
+ProfesorTeorico 738427233M Alfredo Rojas 20009999 34099030 11:00-20:00 11/11/1990 919958351 Profesor El_rojo_n14_Bj_Dr true ProfesorTeorico 3
+ProfesorTeorico 74435441Y María Castaño_Ortíz 1240 29370000 16:00-20:00 11/08/1980 916646776 Profesor C/_Rodal_n11_6to_drch true ProfesorTeorico 2
+Administrador 77545992G Rafael Montero_Martín 15001342 40983493 16:00-20:00 06/12/1955 910049889 Administrador C/_del_Pez_n14_7to_dcha
+Otros 85773664P Conchi Fernandez_Garcia 700 54329875 08:00-20:00 05/11/1974 916645293 Otros C/_Zaldivar_25_2do_dcha_28039 Mujer_de_la_limpieza
+ProfesorPractico 93334832F Pedro Rodríguez_Álvarez 1500 19348232 11:00-16:00 28/02/1988 914454382 Profesor C/_El_pinar_n99_4to_izq true ProfesorPractico 6598NNH
+Otros 93884257D Limpio Don 800 43250987 10:00-20:00 30/03/1990 65988342 Otros Plz/_Algodón_10_sotano_A_izq Auxiliar_de_limpieza
+Secretaria 94773666L Carla Moles_Ruiz 19001133 53450874 10:00-20:00 04/03/1993 659332477 Secretaria C/_Gran_Vía_n211_2do_izq
+ProfesorPractico 98745478P Carlos Miranda_Moles 1200 8492311 10:00-18:00 20/12/1989 915578462 Profesor C/_Miraflores_n50_bj_drch false ProfesorPractico 5134FFJ
+FinTrabajadores

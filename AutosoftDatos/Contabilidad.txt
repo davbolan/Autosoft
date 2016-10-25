@@ -1,0 +1,10 @@
+EmpiezanContabilidad
+Contabilidad 1 Ingreso 02/05/2014 300.0 Devolución_IRPF
+Contabilidad 2 Gasto 15/05/2014 150.0 Recibo_IBERDROLA
+Contabilidad 3 Gasto 17/05/2014 20.0 Material_oficina
+Contabilidad 4 Ingreso 17/05/2014 200.0 Matricula_y_prácticas
+Contabilidad 5 Ingreso 18/05/2014 200.0 Donación
+Contabilidad 6 Gasto 19/05/2014 12.0 Alquiler_vehiculo
+Contabilidad 7 Gasto 18/05/2014 400.0 Alquiler_camión
+Contabilidad 8 Ingreso 21/05/2014 100.0 Devolución_IRPF
+FinContabilidad

@@ -1,0 +1,22 @@
+EmpiezanUsuarios
+Usuario 1234 06443221T Alumno
+Usuario 1234 06448995G Alumno
+Usuario 1234 07884332Y Alumno
+Usuario 12345 11111 Profesor
+Usuario 1234 12345 Profesor
+Usuario 12345 123456789A Profesor
+Usuario 1234 15009842Y Alumno
+Usuario 1234 4321 Alumno
+Usuario 1234 64388323Y Alumno
+Usuario 1234 65432122Q Profesor
+Usuario 1234 726632112N Profesor
+Usuario 1234 738427233M Profesor
+Usuario 1234 74435441Y Profesor
+Usuario 1234 77545992G Administrador
+Usuario 1234 93334832F Profesor
+Usuario 1234 94773666L Secretaria
+Usuario 1234 admin Administrador
+Usuario 1234 alumno Alumno
+Usuario 1234 profe Profesor
+Usuario 1234 secre Secretaria
+FinUsuarios

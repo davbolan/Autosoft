@@ -1,0 +1,8 @@
+EmpiezanAlumnos
+Alumno 06443221T Rodrigo Martínez_Gómez 22/05/1990 2 Permiso_A C/_Francisco_Silvela_78_7to_izqd 726632112N 26/05/2014 915548832 true
+Alumno 06448995G Raquel Rubio_Campomanes 27/05/1991 2 Permiso_A C/_Bravo_Murillo_n142_8vo_dcha_B 726632112N 26/05/2014 638874599 true
+Alumno 07884332Y Antonio Sánchez_Martín 23/12/1977 2 Permiso_C C/_Ocaña_202_2do_dcha 93334832F 26/05/2014 673382195 true
+Alumno 15009842Y Victoria Suárez_Arbeloa 01/11/1985 2 Permiso_B C/_Manzana_22_6to_dcha 93334832F 26/05/2014 918233231 true
+Alumno 64388323Y Paula Jiménez_Rubio 20/10/1980 1 Permiso_A C/_Alcalá_69_6to_dcha 74435441Y 26/05/2014 919928321 true
+Alumno 98554124T Ruben Clara_Mil 01/10/1970 2 Permiso_A C/_Colmenar_n19_bj_izq 98745478P 26/05/2014 624425871 true
+FinAlumnos

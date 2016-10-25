@@ -1,0 +1,20 @@
+EmpiezanVehiculos
+Vehiculo 12345 2013 Renault Megane Inactivo 01/11/2016 Auto true
+Vehiculo 123456 2013 Seat Toledo Inactivo 30/8/2014 Auto true
+Vehiculo 2552XNX 2010 Bugatti_Veyron Black_Bess inactivo 30/12/2014 auto true
+Vehiculo 3066GJW 2010 Bugatti_Veyron Black_Bess activo 30/12/2014 auto true
+Vehiculo 3066HJW 2008 Honda Varadero activo 19/04/2015 moto true
+Vehiculo 3683GBC 2010 Mercedes AMGGT activo 30/8/2014 auto true
+Vehiculo 5134FFJ 2014 Jaguar F-Type activo 30/01/2015 auto true
+Vehiculo 5233AEDS 2010 Mercedes Axor activo 21/07/2015 camion true
+Vehiculo 6598NNH 2012 BMV M5 activo 30/8/2014 auto true
+Vehiculo 6673FBX 2010 Susuki GSX-R activo 12/06/2015 moto true
+Vehiculo BA9876UT 2010 Seat Ibiza Activo 28/12/2015 Auto true
+Vehiculo LE4777W 2011 Yamaha R1 Activo 28/12/2015 Moto true
+Vehiculo M0666LMM 2013 Audi A7 Activo 28/02/2016 Auto true
+Vehiculo M1993DBC 2014 Chrisler 300C activo 30/05/2015 Auto true
+Vehiculo M1993LFT 2014 Honda Civic Activo 01/09/2015 Auto true
+Vehiculo M6659TV 2016 Seat Toledo Activo 30/7/2013 Auto true
+Vehiculo M9347YV 2013 Seat Toledo Activo 23/8/2014 Auto true
+Vehiculo SE2552U 2013 stralis 480 Activo 30/8/20014 Camion true
+FinVehiculos
